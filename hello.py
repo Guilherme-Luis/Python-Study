@@ -1,2 +1,2 @@
-print(f"bruno".upper())
+print("teste".upper())
 print(56 + 7)
