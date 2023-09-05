@@ -12,12 +12,15 @@ execution:
      python hello.py
     (or)
     python3 hello.py
+
+end
 """
 __version__ = "0.0.1"
 __author__ = "Guilherme Luís"
 __license__ = "Unlicensed"
 
 import os
+
 
 current_language = os.getenv("LANGUAGE")
 msg = "Hello, World!"
